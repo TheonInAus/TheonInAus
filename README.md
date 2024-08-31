@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @TheonInAus, IT master student UNSW
 - 👀 I’m interested in:
--    Javascirpt, including both frontend and backend framework, such as Next.js, Nest.js
--    Blockchain Application, experience in Move and Solidity Programming
--    Typescript
+-    React and NodeJs
 -    Modern C++ Programming
 -    Algorithms
 - 🌱 I’m currently learning
--   Node.js
+-   Azure
 - 💞️ I’m looking to collaborate on
 -   Entry Level Software Development
 - 📫 How to reach me
